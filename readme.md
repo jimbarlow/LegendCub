@@ -1,6 +1,8 @@
 
 Testing of climb speeds with N175EC 2028-02-26
 
+|Parameter | Value |
+|-|-|
 |Model | AL3 EAB (Texas Cub) |
 |Engine | O-200A |
 |Propeller 78x35 Catto Composite|
