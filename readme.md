@@ -5,7 +5,7 @@ Testing of climb speeds with N175EC 2028-02-26
 |-|-|
 |Model | AL3 EAB (Texas Cub) |
 |Engine | O-200A |
-|Propeller 78x35 Catto Composite|
+|Propeller 78x35 | Catto Composite|
 |Weight @ Testing |1216 lbs |
 |Temperature |  12C |
 
