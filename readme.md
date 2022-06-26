@@ -19,3 +19,13 @@ Timed climbs for one minute, steady state, measured from 2000' to end point, con
 |55| 800 |
 |50 | TBD |
 
+Timed idle glides for one minute, steady stae, measured from 3000' to end point, constant indicated air speed.
+
+| Indicated Airspeed (MPH) | Descent Rate (FPM) |
+|-|-|
+
+| 65 | 800 |
+|60 | 660|
+|55| 640 |
+|50 | 560 |
+
