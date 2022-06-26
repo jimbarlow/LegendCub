@@ -23,7 +23,6 @@ Timed idle glides for one minute, steady stae, measured from 3000' to end point,
 
 | Indicated Airspeed (MPH) | Descent Rate (FPM) |
 |-|-|
-
 | 65 | 800 |
 |60 | 660|
 |55| 640 |
